@@ -1,0 +1,23 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 721fd4d9-06cf-762e-0740-9eae26274402
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 57d743b9-3d6d-5040-a61b-20038d04a930
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 105d04e2-9b2c-8d39-33aa-cea827927ad5
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: f0ec3fd2-727f-4733-daff-8ca1c399ca02
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 9a2e330c-d3ed-697e-de12-50f454f3a095
+  name: Seminar Discussions
+  pageRef: /pages/seminar-discussions
+  weight: 50
